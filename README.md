@@ -9,6 +9,7 @@ Une application web dédiée à la mixologie, conçue comme une carte de bar int
 - **Classification par Type** : Organisation des boissons (avec alcool, sans alcool, classiques, etc.).
 - **Interface Minimal** : Design peu original du part la nature du projet concentré sur l'interactivité.
 - **Navigation Simple** : Accès rapide aux différentes catégories via un menu dédié.
+- **Favoris** : Grace à la possibilité de creer un profil, il est possible d'enregistrer des cocktails dans l'onglet favoris
 
 ## 🛠️ Stack Technique
 
