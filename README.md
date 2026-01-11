@@ -31,4 +31,4 @@ Une application web dédiée à la mixologie, conçue comme une carte de bar int
     ```
 
 2.  **Lancer le site** :
-    Mettre en route mamp(ou autreà) puis ouvrez simplement le fichier `index.html` dans votre interface web (Chrome, Firefox ou Edge).
+    Mettre en route mamp(ou autre) puis ouvrez simplement le fichier `index.html` dans votre interface web (Chrome, Firefox ou Edge).
